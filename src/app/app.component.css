@@ -1,0 +1,15 @@
+
+h1{
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 34px;
+}
+p, li {
+  color: #5d5d5d;
+  font-family: Arial, Helvetica, sans-serif;
+}
+body {
+  background: white url(~src/assets/gallery/grSzKX3eqBg.jpg);
+  margin-top: 0;
+  padding: 0;
+}
