@@ -1,0 +1,17 @@
+.jumbotron {
+  padding: 1rem;
+  margin-bottom: 2rem;
+  background: black url(https://www.wallpaperflare.com/static/332/566/361/old-building-river-bridge-photography-wallpaper.jpg);
+  border-radius: .3rem;
+}
+p, li{
+  width: border-box;
+  text-align: left;
+  color: white;
+}
+h1{
+  color: #252722;
+}
+col{
+  flex-wrap: wrap;
+}

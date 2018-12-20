@@ -1,0 +1,6 @@
+.dropdown-item:hover{
+  background-color: darkgray!important;
+}
+.navbar-dark .navbar-nav .nav-link {
+  color: white!important;
+}

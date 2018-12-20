@@ -1,0 +1,21 @@
+.carousel-inner .carousel-item{
+  width: auto;
+  margin: auto;
+  height: 32rem;
+}
+img {
+  width: 100%!important;
+  height: auto!important;
+}
+@media only screen and (max-width: 600px){
+  .carousel-inner{
+    width: auto;
+    margin: auto;
+    height: 15rem;
+    display: block;
+  }
+  img{
+    width: auto;
+    height: auto;
+  }
+}
