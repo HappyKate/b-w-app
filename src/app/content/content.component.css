@@ -3,14 +3,19 @@
   margin-bottom: 2rem;
   background: black url(https://www.wallpaperflare.com/static/332/566/361/old-building-river-bridge-photography-wallpaper.jpg);
   border-radius: .3rem;
+  width: 100%;
+  margin-left: 10px;
+  margin-right: 10px;
 }
 p, li{
   width: border-box;
-  text-align: left;
+  text-align: justify;
   color: white;
+  font-family: inherit;
 }
 h1{
   color: #252722;
+  font-size: 36px;
 }
 col{
   flex-wrap: wrap;

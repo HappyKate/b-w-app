@@ -3,7 +3,7 @@
 }
 .navbar-dark .navbar-nav .nav-link {
   color: white!important;
-}
-a{
-  
+  font-family: inherit;
+  margin-left: 10px;
+  margin-right: 10px;
 }
